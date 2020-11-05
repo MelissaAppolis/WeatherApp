@@ -3,7 +3,7 @@
 ## Description
 This app was created using React.js and uses OpenWeatherMap API to display the weather in a city of the user's choice. The user is able to enter the name of the city of their choice to display the weather information of the chosen city.
 
-Check out the [demo]()
+Check out the [Weather App](https://weather-app-eight-ecru.vercel.app) here.
 
 ## Installation
 
